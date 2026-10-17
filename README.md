@@ -24,14 +24,50 @@ Stack: Java • JavaScript • C++ • SQL
 Core: React • Node.js • Express.js • MySQL • MongoDB
 Cloud fundamentals: Docker • AWS</code></pre>
 
-I build systems that connect product logic, data pipelines, and intelligent workflows. My work centers on backend engineering, clean API design, and AI-powered experiences that feel useful and reliabl[...]
+I build systems that connect product logic, data pipelines, and intelligent workflows. My work centers on backend engineering, clean API design, and AI-powered experiences that feel useful and rel[...]
 
 ---
 
 ## Skills
 
 <div align="center">
-  <img src="./assets/skills.svg" width="100%" alt="Tech stack and skills" />
+
+<p align="center">
+  <strong>Languages</strong><br />
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,sql" alt="Languages: Java, JavaScript, C++, SQL" height="40" />
+</p>
+
+<p align="center">
+  <strong>Frontend</strong><br />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend: React, HTML, CSS, Tailwind CSS" height="40" />
+</p>
+
+<p align="center">
+  <strong>Backend</strong><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend: Node.js, Express.js" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-0e7490?style=for-the-badge&logo=webhooks" alt="REST APIs badge" />
+</p>
+
+<p align="center">
+  <strong>Databases</strong><br />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases: MySQL, MongoDB" height="40" />
+</p>
+
+<p align="center">
+  <strong>Tools</strong><br />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" alt="Tools: Git, GitHub, Postman, Docker" height="40" />
+</p>
+
+<p align="center">
+  <strong>AI & Cloud</strong><br />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API badge" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LLM%20integration-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="LLM integration badge" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-fca311?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS fundamentals badge" />
+</p>
+
 </div>
 
 ### Core stack
