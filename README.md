@@ -1,143 +1,109 @@
-<!--
-  AI Developer Command Center profile README
-  Theme: premium dark / cyan + purple / terminal-inspired / futuristic
--->
+Manish Soni — Software engineer
+=================================
 
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="AI Developer Command Center banner" />
-</p>
-
-<p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="terminal intro" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manish23092003&label=PROFILE+VIEWS&color=0e7490&style=flat-square" alt="Profile views" />
-</div>
-
-## Overview
-
-<pre><code>manish@dev:~$ whoami
-Software Engineering graduate
-Focus: backend systems, APIs, AI-integrated apps
-Stack: Java • JavaScript • C++ • SQL
-Core: React • Node.js • Express.js • MySQL • MongoDB
-Cloud fundamentals: Docker • AWS</code></pre>
-
-I build systems that connect product logic, data pipelines, and intelligent workflows. My work centers on backend engineering, clean API design, and AI-powered experiences that feel useful and rel[...]
+Backend engineering, full‑stack development, and pragmatic AI integrations.
 
 ---
 
-## Skills
+About
+-----
 
-<div align="center">
+I build backend systems and APIs that prioritize reliability, clear interfaces, and measurable behavior. My work aims to move ideas to production with a focus on maintainable code, sensible defaults, and testable services.
 
-<p align="center">
-  <strong>Languages</strong><br />
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,sql" alt="Languages: Java, JavaScript, C++, SQL" height="40" />
-</p>
+Core technologies
+-----------------
 
-<p align="center">
-  <strong>Frontend</strong><br />
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend: React, HTML, CSS, Tailwind CSS" height="40" />
-</p>
+Java · JavaScript · C++ · SQL
 
-<p align="center">
-  <strong>Backend</strong><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend: Node.js, Express.js" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-0e7490?style=for-the-badge&logo=webhooks" alt="REST APIs badge" />
-</p>
+React · Node.js · Express.js · MySQL · MongoDB
 
-<p align="center">
-  <strong>Databases</strong><br />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases: MySQL, MongoDB" height="40" />
-</p>
-
-<p align="center">
-  <strong>Tools</strong><br />
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" alt="Tools: Git, GitHub, Postman, Docker" height="40" />
-</p>
-
-<p align="center">
-  <strong>AI & Cloud</strong><br />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API badge" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LLM%20integration-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="LLM integration badge" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-fca311?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS fundamentals badge" />
-</p>
-
-</div>
-
-### Core stack
-
-- Java, JavaScript, C++, SQL
-- React, Node.js, Express.js, MySQL, MongoDB
-- REST APIs, Git, Docker, AWS fundamentals
-- AI-integrated application development and backend engineering
+REST APIs · Git · Docker · AWS fundamentals · LLM integration
 
 ---
 
-## Featured projects
+What I can build
+-----------------
 
-<div align="left">
-
-### 1) Neura-Chat
-<a href="https://github.com/manish23092003/Neura-Chat" target="_blank">https://github.com/manish23092003/Neura-Chat</a>
-
-AI collaborative coding environment.
-
-### 2) AgentFlow
-<a href="https://github.com/manish23092003/agentflow" target="_blank">https://github.com/manish23092003/agentflow</a>
-
-AI purchase decision agent built around autonomous procurement workflows.
-
-### 3) Smart Expense Tracker API
-<a href="https://github.com/manish23092003/smart-expense-tracker-api" target="_blank">https://github.com/manish23092003/smart-expense-tracker-api</a>
-
-RESTful expense tracking and financial insight API.
-
-### 4) Copy Unlocker
-<a href="https://github.com/manish23092003/copy-unlocker" target="_blank">https://github.com/manish23092003/copy-unlocker</a>
-
-Chrome extension focused on improving copy interaction on websites that interfere with normal text selection.
-
-### 5) AI Test Generator
-<a href="https://github.com/manish23092003/AI-Test-Generator" target="_blank">https://github.com/manish23092003/AI-Test-Generator</a>
-
-Project in progress; not deployed yet.
-
-</div>
+- Production-ready REST APIs and backend services with automated tests and clear error handling.
+- Full-stack web products with pragmatic frontends and server-side correctness.
+- AI‑integrated features that connect LLMs or inference APIs to deterministic backend logic.
 
 ---
 
-## GitHub stats
+Featured projects
+-----------------
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish23092003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish23092003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+1) NeuraChat — AI collaborative coding environment
+   - Problem: Real-time, context-aware assistant for developer workflows.
+   - Tech: Frontend (HTML/JS), Backend (Node.js, Express), LLM integration (see repo).
+   - Repo: https://github.com/manish23092003/Neura-Chat
+   - Live demo: (no public deployment linked in repo)
+   - Engineering note: README highlights work to "improve response time and user experience" — the project prioritizes API design and latency management for multi-turn interactions.
+
+2) AgentFlow — Autonomous procurement agent (Algorand x402 testnet)
+   - Problem: Automating discovery, evaluation, and managed payments for premium research resources.
+   - Tech: Monorepo—React frontend, Node.js/Express backend, PostgreSQL + Prisma, Algorand TestNet integrations.
+   - Repo: https://github.com/manish23092003/agentflow
+   - Live demo: (no public deployment linked in repo)
+   - Engineering note: Uses a deterministic state‑machine orchestrator for research flows and implements x402 payment handling—an explicit design choice to keep procurement workflows auditable and resumable.
+
+3) Smart Expense Tracker API — Backend API with tests
+   - Problem: Simple, testable expense tracking API with clear validation and documented endpoints.
+   - Tech: Node.js, Express, Swagger UI, Jest/Supertest integration tests.
+   - Repo: https://github.com/manish23092003/smart-expense-tracker-api
+   - Live demo: (runs locally; API docs available via /api-docs per project README)
+   - Engineering note: README documents separation of server and app and a testing-first approach; the code uses async file I/O and explicit rounding to ensure numeric precision.
+
+4) Copy Unlocker — Chrome extension
+   - Problem: Restore selection & copying on pages that intentionally or accidentally block these actions.
+   - Tech: Manifest V3 extension, content scripts, lightweight vanilla JS.
+   - Repo: https://github.com/manish23092003/copy-unlocker
+   - Live demo: install locally (see project README for load-unpacked instructions).
+   - Engineering note: The extension is explicitly designed to run fully locally without external APIs—this keeps privacy and security simple and auditable.
+
+5) AI Test Generator — Test generation (in development)
+   - Problem: Generate and run unit tests automatically for Python code using AST + AI assistance.
+   - Tech: FastAPI backend, Pytest execution, React frontend (Monaco editor) — see repo for architecture.
+   - Repo: https://github.com/manish23092003/AI-Test-Generator
+   - Live demo: (not deployed)
+   - Engineering note: Combines deterministic AST parsing with LLM-driven cases; README documents a safe, sandboxed execution model for generated tests.
 
 ---
 
-## Working style
+Try the projects locally
+------------------------
 
-- backend-first architecture
-- API stability and maintainability
-- practical AI product integration
-- disciplined Git workflow and clean problem-solving
+Clone and inspect any project to run it locally. Example:
 
----
+    git clone https://github.com/manish23092003/smart-expense-tracker-api.git
+    cd smart-expense-tracker-api
+    # follow the project's README for install & run steps
 
-## Contact
-
-- GitHub: <a href="https://github.com/manish23092003" target="_blank">github.com/manish23092003</a>
-
-If you're building AI tools, developer workflows, or backend systems that need practical engineering execution, I’d be glad to connect.
+Each repository linked above includes setup & run instructions in its own README. I keep runnable instructions inside project repositories so you can verify behavior and inspect tests immediately.
 
 ---
 
-<p align="center">
-  <sub>Designed for a premium dark developer profile with a futuristic terminal aesthetic.</sub>
-</p>
+How to evaluate fit
+-------------------
+
+- Need a backend engineer who writes testable, well‑documented services: look at smart-expense-tracker-api (tests + swagger).
+- Need an engineer who can integrate LLMs pragmatically into product flows: NeuraChat and AI-Test-Generator show LLM integration with backend controls.
+- Need someone who can prototype browser tooling: copy-unlocker demonstrates minimal, privacy-first browser extension work.
+
+---
+
+Inspect my code
+---------------
+
+All project source is available under my GitHub account: https://github.com/manish23092003
+
+If you want a guided walkthrough of any project (design choices, APIs, or architecture), tell me which one and I will prepare a short technical brief.
+
+---
+
+Design & maintenance notes
+--------------------------
+
+- This profile emphasizes readable structure, minimal visual noise, and direct links to working repositories.
+- No external images or badges are included so the README remains robust across GitHub themes and mobile.
+- Keep entries short; expand project descriptions inside each repository where implementation detail belongs.
