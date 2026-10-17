@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal-typing.svg" width="100%" alt="terminal intro" />
+  <img src="./assets/terminal.svg" width="100%" alt="terminal intro" />
 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@ Stack: Java • JavaScript • C++ • SQL
 Core: React • Node.js • Express.js • MySQL • MongoDB
 Cloud fundamentals: Docker • AWS</code></pre>
 
-I build systems that connect product logic, data pipelines, and intelligent workflows. My work centers on backend engineering, clean API design, and AI-powered experiences that feel useful and reliable.
+I build systems that connect product logic, data pipelines, and intelligent workflows. My work centers on backend engineering, clean API design, and AI-powered experiences that feel useful and reliabl[...]
 
 ---
 
@@ -105,4 +105,3 @@ If you're building AI tools, developer workflows, or backend systems that need p
 <p align="center">
   <sub>Designed for a premium dark developer profile with a futuristic terminal aesthetic.</sub>
 </p>
-
