@@ -1,109 +1,136 @@
-Manish Soni — Software engineer
-=================================
+<h1 align="center">Manish Soni</h1>
 
-Backend engineering, full‑stack development, and pragmatic AI integrations.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend+Engineer;Full-Stack+Developer;AI+Product+Builder;Problem+Solver" />
+</p>
 
----
+<p align="center">
+  I build reliable backend systems, practical full-stack products, and AI-powered experiences focused on real-world impact.
+</p>
 
-About
------
-
-I build backend systems and APIs that prioritize reliability, clear interfaces, and measurable behavior. My work aims to move ideas to production with a focus on maintainable code, sensible defaults, and testable services.
-
-Core technologies
------------------
-
-Java · JavaScript · C++ · SQL
-
-React · Node.js · Express.js · MySQL · MongoDB
-
-REST APIs · Git · Docker · AWS fundamentals · LLM integration
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manish23092003&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-What I can build
------------------
+## About Me
 
-- Production-ready REST APIs and backend services with automated tests and clear error handling.
-- Full-stack web products with pragmatic frontends and server-side correctness.
-- AI‑integrated features that connect LLMs or inference APIs to deterministic backend logic.
+I design and build backend systems and APIs that prioritize reliability, maintainability, and measurable behavior. My work spans full-stack development, service architecture, and pragmatic AI integrations that connect intelligent features to deterministic business logic.
 
----
-
-Featured projects
------------------
-
-1) NeuraChat — AI collaborative coding environment
-   - Problem: Real-time, context-aware assistant for developer workflows.
-   - Tech: Frontend (HTML/JS), Backend (Node.js, Express), LLM integration (see repo).
-   - Repo: https://github.com/manish23092003/Neura-Chat
-   - Live demo: (no public deployment linked in repo)
-   - Engineering note: README highlights work to "improve response time and user experience" — the project prioritizes API design and latency management for multi-turn interactions.
-
-2) AgentFlow — Autonomous procurement agent (Algorand x402 testnet)
-   - Problem: Automating discovery, evaluation, and managed payments for premium research resources.
-   - Tech: Monorepo—React frontend, Node.js/Express backend, PostgreSQL + Prisma, Algorand TestNet integrations.
-   - Repo: https://github.com/manish23092003/agentflow
-   - Live demo: (no public deployment linked in repo)
-   - Engineering note: Uses a deterministic state‑machine orchestrator for research flows and implements x402 payment handling—an explicit design choice to keep procurement workflows auditable and resumable.
-
-3) Smart Expense Tracker API — Backend API with tests
-   - Problem: Simple, testable expense tracking API with clear validation and documented endpoints.
-   - Tech: Node.js, Express, Swagger UI, Jest/Supertest integration tests.
-   - Repo: https://github.com/manish23092003/smart-expense-tracker-api
-   - Live demo: (runs locally; API docs available via /api-docs per project README)
-   - Engineering note: README documents separation of server and app and a testing-first approach; the code uses async file I/O and explicit rounding to ensure numeric precision.
-
-4) Copy Unlocker — Chrome extension
-   - Problem: Restore selection & copying on pages that intentionally or accidentally block these actions.
-   - Tech: Manifest V3 extension, content scripts, lightweight vanilla JS.
-   - Repo: https://github.com/manish23092003/copy-unlocker
-   - Live demo: install locally (see project README for load-unpacked instructions).
-   - Engineering note: The extension is explicitly designed to run fully locally without external APIs—this keeps privacy and security simple and auditable.
-
-5) AI Test Generator — Test generation (in development)
-   - Problem: Generate and run unit tests automatically for Python code using AST + AI assistance.
-   - Tech: FastAPI backend, Pytest execution, React frontend (Monaco editor) — see repo for architecture.
-   - Repo: https://github.com/manish23092003/AI-Test-Generator
-   - Live demo: (not deployed)
-   - Engineering note: Combines deterministic AST parsing with LLM-driven cases; README documents a safe, sandboxed execution model for generated tests.
+I enjoy turning ideas into production-ready products, writing testable code, and creating systems that are simple to reason about and easy to evolve.
 
 ---
 
-Try the projects locally
-------------------------
+## Core Technologies
 
-Clone and inspect any project to run it locally. Example:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
-    git clone https://github.com/manish23092003/smart-expense-tracker-api.git
-    cd smart-expense-tracker-api
-    # follow the project's README for install & run steps
-
-Each repository linked above includes setup & run instructions in its own README. I keep runnable instructions inside project repositories so you can verify behavior and inspect tests immediately.
-
----
-
-How to evaluate fit
--------------------
-
-- Need a backend engineer who writes testable, well‑documented services: look at smart-expense-tracker-api (tests + swagger).
-- Need an engineer who can integrate LLMs pragmatically into product flows: NeuraChat and AI-Test-Generator show LLM integration with backend controls.
-- Need someone who can prototype browser tooling: copy-unlocker demonstrates minimal, privacy-first browser extension work.
-
----
-
-Inspect my code
----------------
-
-All project source is available under my GitHub account: https://github.com/manish23092003
-
-If you want a guided walkthrough of any project (design choices, APIs, or architecture), tell me which one and I will prepare a short technical brief.
+- Backend engineering
+- REST APIs
+- Full-stack product development
+- AI + LLM integrations
+- Git, Docker, and cloud fundamentals
+- Testable, maintainable code
 
 ---
 
-Design & maintenance notes
---------------------------
+## What I Build
 
-- This profile emphasizes readable structure, minimal visual noise, and direct links to working repositories.
-- No external images or badges are included so the README remains robust across GitHub themes and mobile.
-- Keep entries short; expand project descriptions inside each repository where implementation detail belongs.
+- Production-ready backend services and APIs with strong validation and error handling
+- Full-stack web products with practical frontend/backend boundaries
+- AI-integrated tools and workflows that combine LLM capabilities with deterministic logic
+- Developer-focused products with a clear user experience and solid engineering fundamentals
+
+---
+
+## Featured Projects
+
+### 1) NeuraChat
+AI collaborative coding environment
+
+- Problem: Create a real-time, context-aware assistant for developer workflows
+- Tech: HTML/JS frontend, Node.js + Express backend, LLM integration
+- Repo: https://github.com/manish23092003/Neura-Chat
+- Focus: API design, latency awareness, multi-turn interactions
+
+### 2) AgentFlow
+Autonomous procurement agent on Algorand x402 testnet
+
+- Problem: Automate discovery, evaluation, and payments for premium research resources
+- Tech: React, Node.js, Express, PostgreSQL, Prisma, Algorand
+- Repo: https://github.com/manish23092003/agentflow
+- Focus: workflow orchestration, state management, payment handling, auditability
+
+### 3) Smart Expense Tracker API
+Backend API with automated tests
+
+- Problem: Build a simple, testable expense tracking service
+- Tech: Node.js, Express, Swagger UI, Jest, Supertest
+- Repo: https://github.com/manish23092003/smart-expense-tracker-api
+- Focus: clean API design, validation, documentation, testing-first development
+
+### 4) Copy Unlocker
+Chrome extension for restoring copy and selection behavior
+
+- Problem: Enable users to copy text from pages that block it
+- Tech: Manifest V3, content scripts, vanilla JavaScript
+- Repo: https://github.com/manish23092003/copy-unlocker
+- Focus: local-only privacy-first browser tooling
+
+### 5) AI Test Generator
+AI-assisted automated test generation
+
+- Problem: Generate and run unit tests for Python code using AST + AI support
+- Tech: FastAPI, Pytest, React, Monaco editor
+- Repo: https://github.com/manish23092003/AI-Test-Generator
+- Focus: combining deterministic parsing with LLM-assisted generation
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manish23092003&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish23092003&theme=tokyonight" />
+</p>
+
+---
+
+## How to Evaluate My Work
+
+- Need a backend engineer who writes testable, documented APIs? Check Smart Expense Tracker API.
+- Need someone who can integrate LLMs into practical product flows? Check NeuraChat and AI Test Generator.
+- Need a developer who can prototype useful browser tooling? Check Copy Unlocker.
+- Need someone comfortable with product architecture and flow orchestration? Check AgentFlow.
+
+---
+
+## Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/your-profile
+- 🌐 Portfolio: https://your-portfolio-link.com
+- 📧 Email: your-email@example.com
+- 🧠 GitHub: https://github.com/manish23092003
+
+---
+
+<p align="center">
+  “I like building systems that are useful, reliable, and easy to trust.”
+</p>
