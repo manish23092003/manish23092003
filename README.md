@@ -106,9 +106,8 @@ Privacy-first browser extension
 
 I am looking for opportunities in backend engineering, full-stack development, or AI/product engineering roles where I can build impactful systems and contribute to meaningful product work.
 
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio-link.com
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/manish-soni-089357245
+- Email: manishsoni135790@gmail.com
 - GitHub: https://github.com/manish23092003
 
 ---
